@@ -107,3 +107,12 @@ The model evaluates short-term predictive power of sentiment and exposure.
    - `historical_data.csv`
 
 2. Open the notebook:
+
+3. Run all cells sequentially.
+
+---
+
+## Conclusion
+
+Market sentiment influences trader behavior and performance distribution.  
+Regime-aware trade frequency control and exposure management can improve risk-adjusted outcomes.
